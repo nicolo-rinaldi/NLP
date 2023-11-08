@@ -1,1 +1,1 @@
-# NLP folder for projects and lectures' lab
+# Neural transition-based parsing for dependency grammars
